@@ -1,4 +1,5 @@
-### Hi there 👋
+- 💚 = Cybersecurity + Data Science
+- 💬 https://deguru22.github.io
 
 <!--
 **deguru22/deguru22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
